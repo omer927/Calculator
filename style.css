@@ -1,0 +1,26 @@
+#organize{
+    display: grid;
+    place-items: center;
+    min-height: 100vh;
+    margin: 0;
+}
+
+ th, td {
+    border: 1px solid black;
+    background: #FFCC33;
+    
+}
+
+th, td{
+    padding: 20px;
+}
+
+input[type = button]{
+    width: 60px;
+    height: 60px;
+    font-size: 30px;
+    font-weight: 700;
+    cursor: pointer;
+    color: #ECB23A;
+    background: #006633;
+}
